@@ -1,1 +1,1 @@
-web: bundle exec ruby testhash.rb -p 9999
+web: bundle exec ruby testhash.rb -p $PORT
